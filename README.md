@@ -142,9 +142,13 @@ npm run dev
 ## 📸 Prototype & Demo
 
 ### Prototype
-```
 <img width="691" height="361" alt="IMG20250424104128-removebg-preview (1)" src="https://github.com/user-attachments/assets/11835259-879b-4266-b7ce-a902d530c205" />
-```
+
+### Hero Page
+<img width="1920" height="1029" alt="Screenshot (169)" src="https://github.com/user-attachments/assets/d41f617f-63a7-4a93-bf8e-fd5dc7f5a4c3" />
+
+### Dashboard
+<img width="1919" height="1026" alt="Screenshot 2025-04-23 143942" src="https://github.com/user-attachments/assets/95d2daa1-d710-4389-8961-999c4d05d039" />
 
 ---
 
@@ -177,3 +181,4 @@ This project is licensed under the **MIT License**. See `LICENSE` for details.
 ---
 
 *By the People, For the Planet.*
+
