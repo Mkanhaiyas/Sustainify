@@ -12,7 +12,7 @@ Users (prosumers) can produce, bid, trade, and consume renewable energy locally,
 
 * 🔗 **Blockchain Smart Contracts** — Secure P2P transactions implemented in Solidity and tested with Hardhat.
 * 📊 **Interactive Dashboard** — Real-time energy production, bidding activity, transaction history, and wallet balances.
-* ⚡ **IoT Prototype Integration** — Solar panel + battery + load demo that demonstrates real energy generation and consumption linked to the app.
+* ⚡ **IoT Prototype Integration** — Solar panel + battery + load demo + IOT device that demonstrates real energy generation and consumption linked to the app.
 * 💰 **Peer-to-Peer Marketplace** — Prosumers list energy, buyers place bids, and on-chain transactions settle trades.
 * 🔐 **Auth & Wallet Management** — Secure authentication, wallet top-up flow, and bid/transaction tracking.
 * ♻️ **Decentralized & Transparent** — Auditable on-chain records and low-cost micro-transactions.
@@ -25,7 +25,7 @@ Users (prosumers) can produce, bid, trade, and consume renewable energy locally,
 * **Backend:** Node.js + Express
 * **Database:** MongoDB
 * **Blockchain:** Solidity + Hardhat + Ethers.js
-* **IoT:** Solar panel, battery, microcontroller (demo hardware)
+* **IoT:** Solar panel, battery, ESP32, Arduino UNO, current and voltage sensors, relay module, and RTC to simulate real-time energy generation, monitoring, and automated switching.
 
 ---
 
@@ -181,4 +181,5 @@ This project is licensed under the **MIT License**. See `LICENSE` for details.
 ---
 
 *By the People, For the Planet.*
+
 
